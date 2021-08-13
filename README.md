@@ -10,6 +10,6 @@ _____________________________
 
 ### Informações Adicionais
 
-## Link pra apresentação: https://www.youtube.com/watch?v=KARMa7qSRT4
+# Link pra apresentação: https://www.youtube.com/watch?v=KARMa7qSRT4
 
-## Link do artigo: https://sol.sbc.org.br/index.php/wcama/article/view/15733
+# Link do artigo: https://sol.sbc.org.br/index.php/wcama/article/view/15733
